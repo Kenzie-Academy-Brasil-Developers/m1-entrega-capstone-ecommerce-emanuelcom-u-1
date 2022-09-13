@@ -100,12 +100,14 @@ body main {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #2e245e;
+  background-color: #37268c;
   font-size: 15px;
   height: 25px;
   width: 85px;
+  border-radius: 3px;
   color: #ffffff;
   margin: 20px 0;
+  
 }
 .conteudo_produto p {
   font-size: 14px;
@@ -167,7 +169,7 @@ input {
   color: #2e245e;
 }
 .titulo_carrionho {
-  background-color: #37268c;
+  background-color: #2e245e;
   display: flex;
   height: 45px;
   align-items: center;
